@@ -6,6 +6,7 @@ tested with libmodbus 3.1.6 and 3.1.7. It was build with MinGW here, but
 libmodbus is MSVC friendly.
 
 More info on libmodbus on the github: https://github.com/stephane/libmodbus
+
 We used libmodbus, but you can use any Modbus TCP client, really. I mean... REALLY. Modbus TCP is available on 
 PLCs, robots, more robots, Python, C/C++, anything.
 
